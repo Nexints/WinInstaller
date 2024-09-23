@@ -1,0 +1,15 @@
+If you find this document, deployment of this OS has been successful.
+
+Some things to note:
+The install method used is unintentional, while working may change later.
+This script relies on the legacy "xcopy". 
+
+IMPORTANT:
+Modify the script for yourself to install your own apps! This installer is currently compatible with AdoptOpenJDK, Davinci Resolve, Windows 10 Debloater, Osu, Steam, Firefox, Notepad++, OBS, Steam, Libreoffice, paint++, and Crystal Disk Mark. However, we have used fake names for these files, as I'm not allowed to personally distribute versions of these installers.
+
+Find these installers for yourself and download them off the internet, or use versions you already have!
+
+.fake files are EXE files you have to find manually.
+.fakemsi are MSI files you need to find manually.
+.changeme is the custom background you will be using. This is optional.
+Microsoft Edge is automatically deleted, so you will need an internet browser. I don't provide any with this build.
